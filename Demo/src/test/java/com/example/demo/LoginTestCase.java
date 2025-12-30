@@ -2,7 +2,7 @@ package com.example.demo;
 
 import org.openqa.selenium.WebDriver;
 
-public class Login_TestCases {
+public class LoginTestCase {
 
     public void testCase1_ValidLogin() {
         WebDriver driver = DriverManager.getDriver();
